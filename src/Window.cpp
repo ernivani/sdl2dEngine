@@ -25,7 +25,7 @@ Window::~Window() {
 }
 
 void Window::init() {
-    changeScene(0);
+    changeScene(1);
     mouseManager = MouseManager();
 }
 
